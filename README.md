@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soulpower007" alt="soulpower007" /></a> </p>
 
-- 🔭 I’m currently working on **Equivariant Transformers**
+- 🔭 I’m currently working on **Transformers**
 
 - 🌱 I’m currently learning **Distributed Computing**
 
