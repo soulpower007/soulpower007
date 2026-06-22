@@ -1,253 +1,132 @@
-<p align="center">
-  <a href="https://livekit.io/">
-    <img src="./.github/assets/livekit-mark.png" alt="LiveKit logo" width="96" height="96">
+<h1 align="center">Hi 👋, I'm Sriphani Vardhan Bellamkonda</h1>
+<h3 align="center">AI Engineer building agents, voice AI, LLM systems, and production ML workflows</h3>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=soulpower007&label=Profile%20views&color=0e75b6&style=flat" alt="soulpower007" />
+</p>
+
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=soulpower007&theme=flat&margin-w=10" alt="soulpower007" />
   </a>
 </p>
 
-<h1 align="center">Post-Discharge Voice Agent</h1>
+Welcome to my GitHub. I build and document AI agents, voice AI systems, LLM/RAG experiments, ML pipelines, backend services, and cloud infrastructure. A lot of my work sits at the intersection of applied AI and production software: connecting models to tools, APIs, databases, user workflows, and evaluation loops so prototypes can become reliable systems.
 
-<p align="center">
-  A LiveKit-powered voice AI care coordinator for hospital discharge check-in calls.
+I am currently an AI Engineer building production agent systems for enterprise ERP and supply-chain workflows. My recent work focuses on tool-calling agents, multi-step orchestration, evaluation harnesses, safety guardrails, RAG, real-time voice AI, and systems that can be tested, observed, and deployed in real customer environments.
+
+- 🔭 I’m currently working on **production AI agents, evals, and voice AI systems**
+- 🌱 I’m currently learning more about **agent reliability, distributed systems, and scalable AI infrastructure**
+- 💬 Ask me about **AI agents, RAG, evals, voice AI, cloud/backend systems, and MLOps**
+- 📫 Reach me at **sriphani345v@gmail.com**
+
+## At A Glance
+
+- AI Engineer with experience building production agents for enterprise ERP, supply-chain, and telecom workflows
+- MSCS graduate from NYU Tandon and former ML Engineer on multilingual speech and diarization research
+- Comfortable moving across the stack: agent design, retrieval, evals, APIs, databases, frontend workflows, deployment, and observability
+- Interested in AI systems that are practical, measurable, and useful in messy real-world environments
+
+## Tech Focus
+
+- AI agents with tool calling, planning, fan-out execution, retries, throttling, and human-in-the-loop workflows
+- Voice AI agents with STT/LLM/TTS orchestration, function calling, latency monitoring, and fallback routing
+- Evaluation pipelines with synthetic test cases, custom datasets, LLM-as-a-judge, observability, and failure-mode analysis
+- RAG and LLM systems using vector search, semantic caching, fine-tuning, knowledge distillation, and deployment patterns
+- ML and data systems across speech recognition, diarization, transformers, active sampling, computer vision, and PySpark
+- Backend and cloud systems using Python, FastAPI, Flask, Django, Spring Boot, Docker, Kubernetes, AWS, and WebSockets
+
+## Recent Work
+
+- Built production AI agent workflows for enterprise supply-chain and ERP use cases, including tool orchestration, parallel execution, retry logic, and customer-specific integrations.
+- Created evaluation harnesses with custom datasets and synthetic test cases to identify prompt, model, retrieval, and decision-logic failure modes.
+- Developed telecom-focused GenAI agents for RAN application development with planning, tool use, semantic caching, graph-based retrieval, and real-time UI interactions.
+- Worked on multilingual speech recognition and diarization research at NYU, processing large-scale audio/video datasets on Linux HPC clusters with PyTorch, Hugging Face, Whisper, and SLURM.
+- Designed backend systems for real-time AI interactions with WebSockets, secure sessions, structured outputs, validation, tracing, and model-based evaluation.
+
+## Featured Repositories
+
+- [discharge-voice-ai-guardrails](https://github.com/soulpower007/discharge-voice-ai-guardrails) - Post-discharge voice AI care coordinator with observer-based safety guardrails, escalation handoffs, and nurse-ready summaries. This reflects my interest in voice agents that are not just conversational, but also measurable, auditable, and workflow-ready.
+- [voice_agent_booking_support](https://github.com/soulpower007/voice_agent_booking_support) - Real-time voice-agent booking workflows built in Python, focused on function calling, conversation flow, and resilient support interactions.
+- [AI-System-end-to-end](https://github.com/soulpower007/AI-System-end-to-end) - LLM fine-tuning, knowledge distillation, RAG, and deployment notes and experiments covering the path from model experimentation to usable AI systems.
+- [AI_assisted_probabilistic_modelling](https://github.com/soulpower007/AI_assisted_probabilistic_modelling) - Applied probabilistic modeling work with AI-assisted workflows and interactive analysis.
+- [DataQualityFramework](https://github.com/soulpower007/DataQualityFramework) - Open source PySpark framework for assessing dataset quality, built around the practical need to validate data before modeling or analytics.
+- [Kube-MongoDB-Flask-EKS](https://github.com/soulpower007/Kube-MongoDB-Flask-EKS) - Cloud/backend deployment practice with Flask, MongoDB, Kubernetes, Docker, and EKS.
+- [financialQA](https://github.com/soulpower007/financialQA) - Financial question answering and numerical reasoning experiments inspired by FinQA.
+- [Active_Sampling](https://github.com/soulpower007/Active_Sampling) - Active sampling and priority sampling with feedback, exploring how targeted sample selection can improve model performance.
+- [PracticalTransformers](https://github.com/soulpower007/PracticalTransformers) - Practical applications of transformers in vision and language.
+- [lightweight-ResNet](https://github.com/soulpower007/lightweight-ResNet) - Lightweight ResNet experiments for CIFAR-10 with fewer than 5M parameters.
+
+## Project Themes
+
+- Agents and automation: tool-calling workflows, voice agents, browser agents, MCP servers, and human-in-the-loop systems
+- Retrieval and generation: RAG pipelines, graph-based retrieval, semantic search, vector databases, caching, and LLM deployment
+- Evaluation and reliability: synthetic datasets, regression tests, LLM-as-a-judge, structured validation, tracing, and failure analysis
+- ML research and experimentation: speech, diarization, low-resource NLP, transformers, active sampling, ResNet variants, and drug discovery modeling
+- Backend and cloud: APIs, WebSockets, databases, Docker, Kubernetes, AWS, CI/CD, and production deployment patterns
+
+## Toolchains And Workflows
+
+- Languages: Python, JavaScript, TypeScript, Java, C/C++, and SQL
+- AI/ML: PyTorch, TensorFlow, Hugging Face, scikit-learn, NumPy, pandas, LangChain, LangGraph, Pydantic, DeepEval, and Langfuse
+- Retrieval and data: FAISS, Qdrant, MongoDB, PostgreSQL, MySQL, Spark/PySpark, Hadoop, HDFS, and MapReduce
+- Backend and frontend: FastAPI, Flask, Django, Spring Boot, Node.js, React, Angular, WebSockets, and REST APIs
+- Cloud and MLOps: AWS, Docker, Kubernetes, GitHub Actions, CI/CD, Linux, SLURM, model evaluation, observability, and deployment automation
+
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
+  <a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="hugging face" width="40" height="40"/></a>
+  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="langchain" width="40" height="40"/></a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/></a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+  <a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
+  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/livekit/agents"><img alt="LiveKit Agents" src="https://img.shields.io/badge/LiveKit-Agents-00AEEF"></a>
-  <a href="https://docs.astral.sh/uv/"><img alt="uv" src="https://img.shields.io/badge/package%20manager-uv-2D2D2D"></a>
-  <img alt="Python" src="https://img.shields.io/badge/python-3.10--3.13-blue">
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-green">
+## What You Will Find Here
+
+- Applied AI projects that connect models to tools, APIs, databases, and UI workflows
+- Experiment repos for transformers, retrieval, active sampling, vision, speech, and data quality
+- Backend/cloud projects that practice deployment, observability, CI/CD, and scalable service design
+- Notes and prototypes from learning, research, and product-oriented engineering work
+
+## Background
+
+- MS in Computer Science from New York University, GPA 3.9/4.0
+- BTech in Computer Science and Engineering from NIT Warangal
+- Previously worked on AI automation for telecom RAN applications, DARPA-funded multilingual speech/diarization research at NYU, enterprise Java/Angular systems at Wells Fargo, and university-scale Django portals at WSDC NITW
+- Published ACL workshop research on low-resource Telugu humor detection using multilingual transformer models
+
+## GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=soulpower007&show_icons=true&theme=default" alt="Sriphani's GitHub stats" />
 </p>
 
-## The Gist
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=soulpower007&show_icons=true&locale=en&layout=compact" alt="Top languages" />
+</p>
 
-This project is a realistic healthcare voice-agent prototype that calls a patient after hospital discharge, walks through a structured check-in, catches safety issues, and produces a nurse-ready summary.
+## Find Me
 
-It is built with [LiveKit Agents](https://github.com/livekit/agents), LiveKit Cloud, and LiveKit Inference. The interesting part is the architecture: instead of one giant prompt, the call is split into a coordinator agent, scoped intake tasks, a hard escalation handoff, and a background safety observer.
+- GitHub: [soulpower007](https://github.com/soulpower007)
+- LinkedIn: [sriphani-bellamkonda](https://www.linkedin.com/in/sriphani-bellamkonda)
+- Email: [sriphani345v@gmail.com](mailto:sriphani345v@gmail.com)
 
-> This is a demo/prototype for care-coordination workflows. It does not diagnose, prescribe, or replace clinical judgment.
-
-## Why It Is Cool
-
-- Real-time voice intake for a high-stakes healthcare workflow.
-- A six-step discharge checklist: identity, safety, medications, follow-up, equipment/homecare, and caregiver support.
-- Immediate nurse escalation when red-flag symptoms appear.
-- Background medical-policy monitoring that watches every user turn without blocking the conversation.
-- Guardrails for medication advice and diagnosis attempts.
-- Mock backend tools for scheduling, DME/homecare coordination, nurse escalation, and nurse-note generation.
-- Typed `CallState` shared across agents, tasks, tools, and summaries.
-- Behavior-focused tests for handoffs, tools, guardrails, observer injection, and nurse-summary output.
-
-## What The Agent Does
-
-```text
-Start call
-  -> Verify identity
-  -> Explain purpose
-  -> Check current condition
-  -> Screen for red-flag symptoms
-  -> Review medications without giving medical advice
-  -> Confirm or request follow-up scheduling
-  -> Check DME and homecare needs
-  -> Ask about caregiver support
-  -> Decide next best action
-  -> Summarize for the patient
-  -> Generate a structured nurse-facing note
-```
-
-If the patient reports chest pain, trouble breathing, severe dizziness, confusion, uncontrolled pain, fever, bleeding, worsening symptoms, or similar red flags, the normal intake stops and the agent hands off to an escalation agent.
-
-## Architecture
-
-The call uses three safety and workflow layers:
-
-| Layer | Job | Implementation |
-| --- | --- | --- |
-| Workflow | Keep the normal call organized and low-latency | `DischargeCoordinatorAgent` + ordered intake tasks |
-| Hard interrupt | Stop the checklist when red flags appear | `SafetyScreenTask` -> `EscalationAgent` handoff |
-| Continuous guardrails | Catch unsafe requests anywhere in the call | `SafetyPolicyObserver` injects `[POLICY: ...]` hints |
-
-```text
-SafetyPolicyObserver
-  listens to every user turn
-  evaluates recent transcript in the background
-  injects policy hints into the active agent
-
-DischargeCoordinatorAgent
-  runs identity + safety checks
-  runs medication, follow-up, DME, and caregiver tasks
-  closes normal calls and generates the nurse summary
-
-EscalationAgent
-  takes over on red flags
-  provides urgent-care guidance when appropriate
-  calls nurse escalation and summary tools
-```
-
-## Core Components
-
-| Component | Purpose |
-| --- | --- |
-| `src/agent.py` | LiveKit entrypoint and voice session setup |
-| `DischargeCoordinatorAgent` | Main supervisor for the post-discharge call |
-| `EscalationAgent` | Dedicated urgent path for red flags and clinical escalation |
-| `SafetyPolicyObserver` | Background guardrail monitor for red flags, medication advice, diagnosis attempts, and worsening condition |
-| `VerifyIdentityTask` | Confirms patient name and date of birth |
-| `SafetyScreenTask` | Screens for red-flag symptoms |
-| `MedicationReviewTask` | Reviews discharge medication instructions while refusing dosage changes |
-| `FollowUpTask` | Confirms or requests PCP/specialist follow-up |
-| `DmeHomecareTask` | Captures missing walker, oxygen, wound care, home nursing, PT, and similar needs |
-| `CaregiverSupportTask` | Records support at home |
-| `generate_nurse_summary` | Builds structured JSON from accumulated call state |
-
-## Example Nurse Summary
-
-```json
-{
-  "patient_id": "P123",
-  "call_status": "completed",
-  "red_flags": ["shortness_of_breath"],
-  "medication_issues": ["patient has not picked up antibiotic"],
-  "follow_up_status": "not_scheduled",
-  "dme_issues": ["walker not delivered"],
-  "caregiver_support": "lives with spouse",
-  "next_best_action": "escalate_to_nurse",
-  "summary": "Patient reports shortness of breath and has not received walker. Escalated to nurse."
-}
-```
-
-## Demo Scenarios
-
-Try these in console mode:
-
-- Happy path: confirm identity, no symptoms, meds understood, appointment scheduled, no equipment needs.
-- Red flag: "I've been having chest pain since I got home."
-- Medication guardrail: "Should I stop taking my antibiotic?"
-- DME issue: "My walker never arrived."
-- Partial intake: decline a section or say you need to leave early.
-
-## Quickstart
-
-Install dependencies:
-
-```console
-uv sync
-```
-
-Create a local environment file:
-
-```console
-cp .env.example .env.local
-```
-
-Fill in your LiveKit Cloud credentials:
-
-```dotenv
-LIVEKIT_URL=wss://your-project.livekit.cloud
-LIVEKIT_API_KEY=your-api-key
-LIVEKIT_API_SECRET=your-api-secret
-```
-
-You can also populate `.env.local` with the LiveKit CLI:
-
-```console
-lk cloud auth
-lk app env -w -d .env.local
-```
-
-Download runtime model files before the first run:
-
-```console
-uv run python src/agent.py download-files
-```
-
-Run an interactive voice-agent console:
-
-```console
-uv run python src/agent.py console
-```
-
-Run the worker for LiveKit rooms, frontends, or telephony integrations:
-
-```console
-uv run python src/agent.py dev
-```
-
-Production worker mode:
-
-```console
-uv run python src/agent.py start
-```
-
-## Patient Metadata
-
-The agent can read patient context from LiveKit job dispatch metadata or room metadata. Metadata should be JSON:
-
-```json
-{
-  "patient_id": "P123",
-  "patient_name": "Jane Doe",
-  "expected_dob": "1985-03-15"
-}
-```
-
-Local development falls back to defaults in `src/discharge/models/call_state.py`.
-
-## Project Layout
-
-```text
-src/
-  agent.py                         # LiveKit entrypoint
-  discharge/
-    agents/                        # Coordinator and escalation agents
-    models/                        # Typed CallState
-    observers/                     # Background safety policy observer
-    prompts/                       # Shared voice rules
-    tasks/                         # AgentTask workflow steps
-    tools/                         # Mock scheduling, DME, escalation, summary tools
-tests/                             # Agent behavior, tool, observer, and summary tests
-Dockerfile                         # Deployment image
-AGENTS.md                          # Project conventions for coding agents
-```
-
-## Tests And Quality
-
-Run the full test suite:
-
-```console
-NUM_CPUS=2 uv run pytest
-```
-
-`NUM_CPUS=2` avoids a macOS sandbox CPU-count issue seen in some local environments.
-
-The behavior tests use LiveKit's agent testing framework and LiveKit Inference. They require valid LiveKit credentials and available LLM token quota.
-
-Focused suites:
-
-```console
-NUM_CPUS=2 uv run pytest tests/test_safety_observer.py
-NUM_CPUS=2 uv run pytest tests/test_safety_escalation.py
-NUM_CPUS=2 uv run pytest tests/test_medication_guardrails.py
-NUM_CPUS=2 uv run pytest tests/test_intake_flow.py
-NUM_CPUS=2 uv run pytest tests/test_nurse_summary.py
-```
-
-Format and lint:
-
-```console
-uv run ruff format
-uv run ruff check
-```
-
-
-## Deployment Notes
-
-The repository includes a `Dockerfile` suitable for LiveKit agent deployment. For GitHub Actions or any CI environment, configure these as repository secrets:
-
-- `LIVEKIT_URL`
-- `LIVEKIT_API_KEY`
-- `LIVEKIT_API_SECRET`
-
-Do not commit `.env` or `.env.local`.
-
-## License
-
-This project is licensed under the MIT License. See `LICENSE` for details.
+<p align="left">
+  <a href="https://linkedin.com/in/sriphani-bellamkonda" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sriphani-bellamkonda" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/sriphani.vardhan" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sriphani.vardhan" height="30" width="40" />
+  </a>
+</p>
