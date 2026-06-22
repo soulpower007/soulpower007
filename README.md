@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sriphani Vardhan Bellamkonda</h1>
 <h3 align="center">AI Engineer building agents, voice AI, LLM systems, and production ML workflows</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=soulpower007&label=Profile%20views&color=0e75b6&style=flat" alt="soulpower007" />
-</p>
 
 I build AI agents, voice AI systems, LLM/RAG workflows, evaluation harnesses, ML pipelines, and backend/cloud infrastructure. My work focuses on connecting models to tools, APIs, databases, and real user workflows so AI prototypes can become reliable production systems.
 
